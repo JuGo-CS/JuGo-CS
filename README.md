@@ -121,9 +121,9 @@ Improving version control practices and collaborative workflows for team-based s
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JuGo-CS&show_icons=true&theme=radical)
-
   ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JuGo-CS&theme=radical)
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JuGo-CS&show_icons=true&theme=radical)
 
   ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuGo-CS&layout=compact&theme=radical)
 
